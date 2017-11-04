@@ -1,3 +1,6 @@
+#download these
+OS : MAC OS X
 
 conda install scikit-learn
 conda install python-graphviz
+pip install pydot2
