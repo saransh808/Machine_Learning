@@ -4,3 +4,4 @@ OS : MAC OS X
 conda install scikit-learn
 conda install python-graphviz
 pip install pydot2
+pip3 install -U scikit-learn
